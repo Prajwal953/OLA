@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home{
+
+}
+.img1{
+    margin-left: 20px;
+}
+.div1{
+    background-color: black;
+    z-index: 0;
+}
+.div2{
+    display: flex;
+}
+.div2 ul{
+    display: flex;
+
+}
+.div2 ul li{
+list-style-type: none;
+text-decoration: none;
+font-size:medium;
+color: aliceblue;
+font: bold;
+padding: 25px;
+
+}
+.div2 ul li:hover{
+    color: orange;
+}
+
+.div3{
+    margin-left: 40%;
+    padding-top: 1%;
+    border-radius: 5px;
+  
+}
+.btn1{
+    padding: 13px;
+    background-color: rgba(77, 76, 76, 0.574);
+    color: aliceblue;
+    font: bold;
+    text-decoration: none;
+   
+}
+.btn1:hover{
+    scale: 1.1;
+}
+.btn2{
+    padding: 12px;
+    font: bold;
+}
+.btn2:hover{
+    scale: 1.1;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////// */
+.div4{
+    z-index: 1;
+    bottom: 200px;
+    position: relative;
+}
+
+.sec1{
+    font:bolder;
+    color: white;
+    font-size:300%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 150px;
+    width: 350px;
+    margin-left: 250px;
+}
+.sec2 ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    background-color:whitesmoke;
+    height: 90px;
+    width: 450px;
+    margin-left: 250px;
+    padding-top: 10px;
+}
+
+.sec2 ul li{
+    padding-left: 20%;
+}
+.sec2 ul li:hover{
+ 
+    color: rgb(255, 30, 0);
+}
+.sec3{
+    margin-left: 30%;
+}
+
+.txt1{
+    padding: 20px;
+    
+}
+.txt2{
+    padding: 20px;
+}
+.btn3{
+    padding: 20px;
+}
+.div5{
+    display: flex;
+    
+}
+.sec4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    font-size: 500%;
+}
